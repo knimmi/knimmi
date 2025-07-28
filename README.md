@@ -3,8 +3,7 @@
 
 Im a relatively new developer looking to expand my horizons and knowledge in this awsome tech world.
 
- ---
- 
+---
 ### 💻Languages and Tools
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,7 +17,7 @@ Im a relatively new developer looking to expand my horizons and knowledge in thi
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 #
-
+---
 ### 📊 Stats
 ![Knimmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=knimmi&show_icons=true&theme=onedark)
 
